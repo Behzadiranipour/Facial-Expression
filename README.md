@@ -22,7 +22,7 @@ The project focuses on building a minimal workflow for handling image files and 
 ---
 
 ## 📂 Project Structure
-acial-Expression-Recognition/ │ ├── models/ │ ├── model2.ipynb 
+Facial-Expression-Recognition/ │ ├── models/ │ ├── model2.ipynb 
 │ ├── pytorch.ipynb # Placeholder – PyTorch implementation coming soon │ 
 │ ├── data/ # Dataset (not included in repo) 
 ├── requirements.txt # Dependencies 
@@ -51,3 +51,4 @@ pip install -r requirements.txt
 📜 License
 
 This project is released under the MIT License. Feel free to use, modify, and share with proper attribution.
+
